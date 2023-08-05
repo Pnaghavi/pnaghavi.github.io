@@ -16,7 +16,3 @@ To further enhance my research aptitude, I am currently an intern at the Univers
 <br />
 My multifaceted education in various engineering disciplines and computer science, in addition to my research experience in machine learning, cybersecurity, and health informatics has provided me with an interesting breadth of knowledge as well as a unique perspective and ability to develop novel solutions to complex problems. That being said, I am very eager to develop a depth of knowledge in one specific area of computer science during my Ph.D. research and education as I am currently applying to computer science Ph.D. programs and searching for advisors whose research aligns with my past experiences.
 </div>
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
