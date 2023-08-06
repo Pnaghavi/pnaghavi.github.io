@@ -8,6 +8,7 @@ author_profile: true
 * University of Florida, Department of Computer Information Science and Engineering, Gainesville, FL, USA <br/>
 Role: Teaching Assistant 2023-2024	<br/>
   - More details to come in the coming months
+<br/>
 
 * THE Robbins Company, Kent, WA, USA <br/> 
 Role: AutoCAD Electrical Teacher and Administrator	2016–2020<br/> 
