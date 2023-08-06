@@ -7,7 +7,7 @@ author_profile: true
 
 * University of Florida, Department of Computer Information Science and Engineering, Gainesville, FL, USA <br/>
 __Role:__ Teaching Assistant 2023-2024	<br/>
-  - More details to come in the coming months <br/>
+  - More details to come soon <br/>
 <br/>
 
 * The Robbins Company, Kent, WA, USA <br/> 

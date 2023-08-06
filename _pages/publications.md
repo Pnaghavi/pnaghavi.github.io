@@ -14,14 +14,14 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 **"Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 18 to 12%)<br/>
-[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)  [[Media]](/media/1-SideEye)
+[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)  [[Media]](/media/SideEye)
 
 * [C1] Yulong Cao, S. Hrushikesh Bhupathiraju, __Pirouz Naghavi__, Takeshi Sugawara, Z. Morley Mao, and Sara Rampazzi
 <br/> 
 **"You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks"**
 <br/>
 In Proceedings of the 32nd Annual USENIX Security Symposium. 2023. (Acceptance rate 18 to 15%)<br/>
-[[Website]](https://cpseclab.github.io/youcantseeme/)  [[Paper Link]](https://www.usenix.org/system/files/sec23summer_349-cao-prepub.pdf)  [[PDF]](/files/usenix23_you_cant_see_me.pdf)  Presentation coming soon!  [[Media]](/media/2-YouCantSeeMe)
+[[Website]](https://cpseclab.github.io/youcantseeme/)  [[Paper Link]](https://www.usenix.org/system/files/sec23summer_349-cao-prepub.pdf)  [[PDF]](/files/usenix23_you_cant_see_me.pdf)  Presentation coming soon!  [[Media]](/media/YouCantSeeMe)
 
 ## 2022
 * [J2] Muhammad Sajidur Rahman, __Pirouz Naghavi__, Blas Kojusner, Sadia Afroz, Byron Williams, Sara Rampazzi, and Vincent Bindscaedler
