@@ -33,7 +33,7 @@ IEEE Access - Open Access Journal. 2022. (Acceptance rate 30%)<br/>
 
 * [J1] and [P1] Erica Eaton * and __Pirouz Naghavi__ * 
 <br/> 
-**"PermPress: Machine Learning-Based Pipeline to Evaluate Permissions in App Privacy Policies"**
+**"[Re] Reproduction and Extension of "Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation"**
 <br/>
-RE Science C Journal. Presented at NeurIPS 2022. [Re] Reproduction and Extension of "Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation"<br/>
+RE Science C Journal. Presented at NeurIPS. 2022.<br/>
 [[Website]](https://github.com/Pnaghavi/Mitigating-Gender-Bias-in-Generated-Text) [[Paper Link]](http://rescience.github.io/bibliography/Eaton_2022.html)  [[PDF]](/files/ReScienceC_RE_queens.pdf) [[Poster]](https://neurips.cc/media/PosterPDFs/NeurIPS%202022/e0914609a566eff3fcceb8879ea82e74.png?t=1666275131.6875262) [[Presentation]](https://neurips.cc/virtual/2022/poster/56108)
