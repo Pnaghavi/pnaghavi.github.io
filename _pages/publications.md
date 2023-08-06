@@ -31,7 +31,7 @@ In Proceedings of the 32nd Annual USENIX Security Symposium. 2023. (Acceptance r
 IEEE Access - Open Access Journal. 2022. (Acceptance rate 30%)<br/>
 [[Website]](https://sites.google.com/view/permpress/home?authuser=0) [[Paper Link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9861610)  [[PDF]](/files/IEEE_ACCESS_PermPress.pdf)
 
-* [J1] and [P1] Erica Eaton and __Pirouz Naghavi__ 
+* [J1] and [P1] Erica Eaton * and __Pirouz Naghavi__ * 
 <br/> 
 **"[Re] Reproduction and Extension of "Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation"**
 <br/>
