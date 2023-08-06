@@ -7,7 +7,7 @@ author_profile: true
 
 * University of Florida, Department of Computer Information Science and Engineering, Gainesville, FL, USA <br/>
 Role: Teaching Assistant 2023-2024	<br/>
-  - More details to come in the coming months
+  - More details to come in the coming months <br/>
 <br/>
 
 * The Robbins Company, Kent, WA, USA <br/> 
@@ -20,3 +20,4 @@ Role: AutoCAD Electrical Teacher and Administrator	2016–2020<br/>
 Role: AutoCAD Electrical Teacher and Administrator	2015–2016 <br/> 
   - Trained new employees and supported existing employees with implementation issues<br/> 
   - Oversaw AutoCAD Electrical administration duties for the Controls Department, as well as developing a data synchronizer tool to build the connection between company enterprise and resource planning (ERP) database and the AutoCAD Electrical database using C# and SQL Server <br/>
+  <br/>
