@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* University of Florida, Gainesville, FL, USA <br/>
+* University of Florida, Department of Computer Information Science and Engineering, Gainesville, FL, USA <br/>
 Role: Teaching Assistant 2023-2024	<br/>
   - More details to come in the coming months
 
