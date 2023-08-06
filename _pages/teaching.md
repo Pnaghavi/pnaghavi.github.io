@@ -10,7 +10,7 @@ Role: Teaching Assistant 2023-2024	<br/>
   - More details to come in the coming months
 <br/>
 
-* THE Robbins Company, Kent, WA, USA <br/> 
+* The Robbins Company, Kent, WA, USA <br/> 
 Role: AutoCAD Electrical Teacher and Administrator	2016–2020<br/> 
   - Provided training on AutoCAD Electrical for the Electrical Engineering Department for three days during the initial integration of the software for the department <br/> 
   - Trained new employees and assisted existing employees with implementation issues <br/> 
