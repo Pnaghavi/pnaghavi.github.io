@@ -21,7 +21,14 @@ In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S
 **"You Can’t See Me: Physical Removal Attacks on LiDAR-based Autonomous Vehicles Driving Frameworks"**
 <br/>
 In Proceedings of the 32nd Annual USENIX Security Symposium. 2023. (Acceptance rate 18 to 15%)<br/>
-[[Website]](https://cpseclab.github.io/youcantseeme/)  [[Paper Link]](https://www.usenix.org/system/files/sec23summer_349-cao-prepub.pdf)  [[PDF]](/files/usenix23_you_cant_see_me.pdf)  Presentation coming soon!  [[Media]](/media/YouCantSeeMe)
+[[Website]](https://cpseclab.github.io/youcantseeme/)  [[Paper Link]](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)  [[PDF]](/files/usenix23_you_cant_see_me.pdf)  [[Presentation]](https://www.youtube.com/watch?v=3y66bQdfVf0&t=1s)  [[Media]](/media/YouCantSeeMe)
+
+* [J1] Benn Sartorius, ..., __Pirouz Naghavi__, ...
+<br/> 
+**"The burden of bacterial antimicrobial resistance in the WHO African region in 2019: a cross-country systematic analysis"**
+<br/>
+The Lancet Global Health. 2023. (Acceptance rate of 22.2% and Impact Factor of 34.3)<br/>
+[[Paper Link]](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00539-9/fulltext)  [[PDF]](/files/AMR_Africa.pdf)
 
 ## 2022
 * [J2] Muhammad Sajidur Rahman, __Pirouz Naghavi__, Blas Kojusner, Sadia Afroz, Byron Williams, Sara Rampazzi, and Vincent Bindscaedler

@@ -6,8 +6,11 @@ author_profile: true
 ---
 
 * University of Florida, Department of Computer Information Science and Engineering, Gainesville, FL, USA <br/>
-__Role:__ Teaching Assistant 2023-2024	<br/>
-  - More details to come soon <br/>
+__Role:__ Teaching Assistant for Computer Network Fundamentals with Prof. Ye Xia 2023	<br/>
+  - Held 4 office hours a week to assist students with homework, midterm, and final exam preparation <br/>
+  - Provided around the clock assistance to students, answering their questions on course material and deliverables via Slack <br/>
+  - Created groups for students to work on the final project <br/>
+ <br/>
 <br/>
 
 * The Robbins Company, Kent, WA, USA <br/> 
