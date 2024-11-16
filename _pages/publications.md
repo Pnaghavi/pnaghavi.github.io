@@ -8,13 +8,21 @@ author_profile: true
 [C]-conference, [J]-journal, [P]-poster. The * sign stands for co-first authors (equal contribution). 
 A full list of publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ). 
 
+## 2024
+* [C3] __Pirouz Naghavi__, Erica Naghavi, Gang Wang, Kanyin Liane Ong
+<br/> 
+**"Self-Supervised Probability Imputation to Estimate the External-Natural Cause of Injury Matrix"**
+<br/>Machine Learning for Health (ML4H)<br/>
+[[Accepted Pending Publication]]
+
+
 ## 2023
 * [C2] Yan Long, __Pirouz Naghavi__, Blas Kojusner, Kevin Butler, Sara Rampazzi, and Kevin Fu. 
 <br/> 
 **"Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 18 to 12%)<br/>
-[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)  [[Media]](/media/SideEye)
+[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)  [[Media]](/media/SideEye) [[Patent]](https://patents.google.com/patent/US20240187735A1/en) 
 
 * [C1] Yulong Cao, S. Hrushikesh Bhupathiraju, __Pirouz Naghavi__, Takeshi Sugawara, Z. Morley Mao, and Sara Rampazzi
 <br/> 
@@ -23,12 +31,6 @@ In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S
 In Proceedings of the 32nd Annual USENIX Security Symposium. 2023. (Acceptance rate 18 to 15%)<br/>
 [[Website]](https://cpseclab.github.io/youcantseeme/)  [[Paper Link]](https://www.usenix.org/conference/usenixsecurity23/presentation/cao)  [[PDF]](/files/usenix23_you_cant_see_me.pdf)  [[Presentation]](https://www.youtube.com/watch?v=3y66bQdfVf0&t=1s)  [[Media]](/media/YouCantSeeMe)
 
-* [J1] Benn Sartorius, ..., __Pirouz Naghavi__, ...
-<br/> 
-**"The burden of bacterial antimicrobial resistance in the WHO African region in 2019: a cross-country systematic analysis"**
-<br/>
-The Lancet Global Health. 2023. (Acceptance rate of 22.2% and Impact Factor of 34.3)<br/>
-[[Paper Link]](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00539-9/fulltext)  [[PDF]](/files/AMR_Africa.pdf)
 
 ## 2022
 * [J2] Muhammad Sajidur Rahman, __Pirouz Naghavi__, Blas Kojusner, Sadia Afroz, Byron Williams, Sara Rampazzi, and Vincent Bindscaedler

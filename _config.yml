@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pirouz Naghavi"
 title_separator          : "-"
 name                     : &name "Pirouz Naghavi"
-description              : &description "Graduate Student at University of Florida"
+description              : &description "Ph.D. Student, University of Illinois at Urbana-Champaign"
 url                      : https://pnaghavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pnaghavi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Pirouz Naghavi"
   avatar           : "profile.png"
-  bio              : "Graduate Student at University of Florida interested in cybersecurity and health informatics. "
-  location         : "Gainesville FL"
+  bio              : "Ph.D. Student at University of Illinois at Urbana-Champaign interested in cybersecurity, health, and AI."
+  location         : "Urbana IL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ"
-  email            : "pnaghavi@ufl.edu"
+  email            : "naghavi2@illinois"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
