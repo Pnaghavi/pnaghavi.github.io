@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 [C]-conference, [J]-journal, [P]-poster. The * sign stands for co-first authors (equal contribution). 
-A full list of publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ). 
+A full list of publications, including my [Global Burden of Disease GBD](https://www.healthdata.org/research-analysis/gbd) publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ). 
 
 ## 2024
 * [C3] __Pirouz Naghavi__, Erica Naghavi, Gang Wang, Kanyin Liane Ong
 <br/> 
 **"Self-Supervised Probability Imputation to Estimate the External-Natural Cause of Injury Matrix"**
-<br/>Machine Learning for Health (ML4H)<br/>
-[[Accepted Pending Publication]]
+<br/>Machine Learning for Health (ML4H). 2024. (Acceptance rate 28.7%)<br/>
+[Accepted Pending Publication]
 
 
 ## 2023
