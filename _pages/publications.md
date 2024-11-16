@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [C]-conference, [J]-journal, [P]-poster. The * sign stands for co-first authors (equal contribution). 
-A full list of publications, including my [Global Burden of Disease GBD](https://www.healthdata.org/research-analysis/gbd) publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ). 
+A full list of publications, including my [Global Burden of Disease (GBD)](https://www.healthdata.org/research-analysis/gbd) publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ). 
 
 ## 2024
 * [C3] __Pirouz Naghavi__, Erica Naghavi, Gang Wang, and Kanyin Liane Ong
