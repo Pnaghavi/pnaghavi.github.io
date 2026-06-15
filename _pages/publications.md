@@ -8,12 +8,19 @@ author_profile: true
 [C]-conference, [J]-journal, [P]-poster. The * sign stands for co-first authors (equal contribution). 
 A full list of publications, including my [Global Burden of Disease (GBD)](https://www.healthdata.org/research-analysis/gbd) publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ). 
 
+## 2025
+* [C4] Haoyu Zhai, Shuo Wang, __Pirouz Naghavi__, Qingying Hao, and Gang Wang
+<br/> 
+**"Revelio: Blurred Images Can Still Disclose Your Identity"**
+<br/>In Proceedings of the 47th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2026. (Acceptance rate 13%)<br/>
+[[Paper Link]](https://par.nsf.gov/servlets/purl/10645871)  [[PDF]](/files/oakland26-revelio.pdf)
+
 ## 2024
 * [C3] __Pirouz Naghavi__, Erica Naghavi, Gang Wang, and Kanyin Liane Ong
 <br/> 
 **"Self-Supervised Probability Imputation to Estimate the External-Natural Cause of Injury Matrix"**
 <br/>Machine Learning for Health (ML4H). 2024. (Acceptance rate 28.7%)<br/>
-[Accepted Pending Publication]
+[[Paper Link]](https://proceedings.mlr.press/v259/naghavi25a.html)  [[PDF]](/files/ml4h25-enmatrix.pdf)
 
 
 ## 2023
