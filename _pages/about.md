@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Gang Wang](https://gangw.cs.illinois.edu/) in the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/). My research is in network security, with a focus on abuse and fraud detection. I study how defenders detect and respond to attackers who hide behind shared and disposable IP addresses, such as VPNs, proxies, and cloud servers.
+I'm a Ph.D. candidate in Computer Science at the [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by [Prof. Gang Wang](https://gangw.cs.illinois.edu/) in the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/). My research is in network security, with a focus on abuse and fraud detection. I study how defenders detect and respond to attackers who hide behind shared and disposable IP addresses, such as VPNs.
 
 Before UIUC, I received M.S. degrees from the University of Florida and the University of Washington, and a B.A.Sc. in Mechanical Engineering from the University of British Columbia.
 
