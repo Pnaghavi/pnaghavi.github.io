@@ -5,6 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* University of Illinois Urbana-Champaign, Champaign, IL, USA <br/>
+__Role:__ Teaching Assistant for Data Science DISCOVERY with Prof. Wade Fagen-Ulmschneider and Prof. Kelly Findley 2026 <br/>
+  - Held office hours for 2 hours a week for a class of 1,100 students <br/>
+  - Managed and graded 2 lab sessions with 60 students a week <br/>
+ <br/>
+<br/>
+
 * University of Florida, Department of Computer Information Science and Engineering, Gainesville, FL, USA <br/>
 __Role:__ Teaching Assistant for Computer Network Fundamentals with Prof. Ye Xia 2023	<br/>
   - Held 4 office hours a week to assist students with homework, midterm, and final exam preparation <br/>

@@ -8,7 +8,7 @@ author_profile: true
 [C]-conference, [J]-journal, [P]-poster. The * sign stands for co-first authors (equal contribution). 
 A full list of publications, including my [Global Burden of Disease (GBD)](https://www.healthdata.org/research-analysis/gbd) publications can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=cIx9hWcAAAAJ). 
 
-## 2025
+## 2026
 * [C4] Haoyu Zhai, Shuo Wang, __Pirouz Naghavi__, Qingying Hao, and Gang Wang
 <br/> 
 **"Revelio: Blurred Images Can Still Disclose Your Identity"**
@@ -40,7 +40,7 @@ In Proceedings of the 32nd Annual USENIX Security Symposium. 2023. (Acceptance r
 
 
 ## 2022
-* [J2] Muhammad Sajidur Rahman, __Pirouz Naghavi__, Blas Kojusner, Sadia Afroz, Byron Williams, Sara Rampazzi, and Vincent Bindscaedler
+* [J2] Muhammad Sajidur Rahman, __Pirouz Naghavi__, Blas Kojusner, Sadia Afroz, Byron Williams, Sara Rampazzi, and Vincent Bindschaedler
 <br/> 
 **"PermPress: Machine Learning-Based Pipeline to Evaluate Permissions in App Privacy Policies"**
 <br/>
