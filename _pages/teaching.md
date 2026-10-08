@@ -10,7 +10,6 @@ __Role:__ Teaching Assistant for Data Science DISCOVERY with Prof. Wade Fagen-Ul
   - Held office hours for 2 hours a week for a class of 1,100 students <br/>
   - Managed and graded 2 lab sessions with 60 students a week <br/>
  <br/>
-<br/>
 
 * University of Florida, Department of Computer Information Science and Engineering, Gainesville, FL, USA <br/>
 __Role:__ Teaching Assistant for Computer Network Fundamentals with Prof. Ye Xia 2023	<br/>
@@ -18,7 +17,6 @@ __Role:__ Teaching Assistant for Computer Network Fundamentals with Prof. Ye Xia
   - Provided around the clock assistance to students, answering their questions on course material and deliverables via Slack <br/>
   - Created groups for students to work on the final project <br/>
  <br/>
-<br/>
 
 * The Robbins Company, Kent, WA, USA <br/> 
 __Role:__ AutoCAD Electrical Teacher and Administrator	2016–2020<br/> 
